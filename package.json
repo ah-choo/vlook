@@ -1,0 +1,9 @@
+{
+  "name": "vlook",
+  "version": "1.0.0",
+  "description": "An awesome blog.",
+  "main": "index.js",
+  "repository": "git@github.com:ah-choo/vlook.git",
+  "author": "Junyu Li <li.junyu@outlook.com>",
+  "license": "MIT"
+}
